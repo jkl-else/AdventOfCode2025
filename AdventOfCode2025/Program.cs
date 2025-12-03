@@ -1,5 +1,5 @@
 ﻿using System.Diagnostics;
-using AdventOfCode2025.Calendar.D02;
+using AdventOfCode2025.Calendar.D04;
 
 namespace AdventOfCode2025
 {
